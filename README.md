@@ -1,19 +1,20 @@
-## Hi there 👋
 
-<!--
-**Lionel-0829/Lionel-0829** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, soy Lionel Prado</h1>
 
-Here are some ideas to get you started:
+## Sobre mi :
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🎓 Estudio para ser programador en [Escuela de Educación Secundaria Técnica N°1](https://sites.google.com/view/tecnica1montegrande)
+- ⚽ Me gusta el deporte
+- 🎧  Tambien me gusta escuchar musica
 
+<br>
 
--->
-![superball](https://github.com/user-attachments/assets/6b8727a8-3af6-401f-a0f6-c76fd3bbd328)
+## En lo que soy bueno 💻:
+
+<br>
+
+<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> <img src="https://img.icons8.com/officel/48/000000/php-logo.png"/> <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
+
+<br>
+
+Ultima edicion 3/6/2025
